@@ -1,0 +1,22 @@
+params:
+  epochs:30
+  batch_size:32
+  no_classes:10
+  input_shape:[28,28]
+  loss_function: sparse 
+  metrics: accuracy
+  optimizer: SGD
+
+
+
+artifacts:
+  artifacts_dir: artifacts
+  model_dir: model
+  plots_dir: plots
+  checkpoint_dir: Checkpoints
+logs:
+
+
+  
+logs:
+  logs_dir:logs
