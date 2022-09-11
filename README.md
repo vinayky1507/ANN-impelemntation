@@ -1,5 +1,5 @@
 # ANN-impelemntation
-ANN-impelemntation DLCVNLP
+ANN-impelemntation
 ## important commands
 ``` bash
 conda activate ./envs
